@@ -7,9 +7,9 @@
  
 •	Exploring the structure and quality of the dataset. 
 
-•	Cleaning the data for accurate analysis. 
-
 •	Performing descriptive analytics to identify trends and patterns. 
+
+•	Cleaning the data for accurate analysis. 
 
 •	Visualizing key metrics like total border crossings and transportation types. 
 
